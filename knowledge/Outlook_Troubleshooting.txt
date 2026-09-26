@@ -1,0 +1,9 @@
+TITLE: Outlook Synchronization Troubleshooting
+CATEGORY: Collaboration / Outlook
+1. Confirm network connectivity.
+2. Restart Outlook.
+3. Check whether Outlook is in Offline mode.
+4. Verify mailbox connectivity.
+5. Restart the computer.
+6. If synchronization remains stuck, recreate the Outlook profile using the approved enterprise procedure.
+7. Escalate to Service Desk if unresolved.

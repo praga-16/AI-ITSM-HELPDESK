@@ -1,0 +1,3 @@
+TITLE: Wi-Fi Troubleshooting
+CATEGORY: Network / Wi-Fi
+Enable Wi-Fi, disable airplane mode, reconnect to the approved network, restart the adapter, restart the laptop, and escalate if authentication fails.

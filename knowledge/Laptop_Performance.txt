@@ -1,0 +1,3 @@
+TITLE: Laptop Performance
+CATEGORY: Hardware / Performance
+Restart the laptop, close unnecessary applications, check disk space, review resource-heavy applications, install approved updates, and escalate persistent problems.

@@ -1,0 +1,9 @@
+TITLE: VPN Troubleshooting
+CATEGORY: Network / VPN
+1. Confirm the laptop has internet access.
+2. Confirm the approved corporate VPN client is being used.
+3. Check the username.
+4. Restart the VPN client.
+5. Sign out and sign in again.
+6. If authentication continues to fail, contact Network Support.
+Do not invent VPN server settings.

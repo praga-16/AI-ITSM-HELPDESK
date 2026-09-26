@@ -1,0 +1,3 @@
+TITLE: Software Installation
+CATEGORY: Software
+Use the approved software catalogue. The prototype supports Visual Studio Code, Google Chrome, Postman and Python. Flow: employee request -> catalogue validation -> ServiceNow request -> mock provisioning -> status update. Actual installation is not required.

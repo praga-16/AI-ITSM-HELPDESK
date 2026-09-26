@@ -1,0 +1,3 @@
+TITLE: Application Access
+CATEGORY: Application / Access
+Confirm the employee has an approved account, check the application catalogue, check whether approval is required, then create a ServiceNow request or incident. Never invent permissions or internal policy.
