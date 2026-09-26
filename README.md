@@ -6,12 +6,10 @@ An AI-powered IT Service Management (ITSM) Helpdesk platform that automatically 
 
 ## 📸 Application Screenshots
 
-> Place your screenshots inside `docs/images/` using the filenames shown below.
 
 ### 🏠 ITSM Dashboard
 
 
-<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/2ebc50dc-e82c-4664-959d-26ac52c815ab" />
 
 The dashboard provides an overview of:
 
@@ -21,6 +19,8 @@ The dashboard provides an overview of:
 - Escalated Tickets
 - Software Requests
 - Automation Actions
+- <img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/2ebc50dc-e82c-4664-959d-26ac52c815ab" />
+
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/9faab8e1-3ad2-488f-9686-c4100e2c9009" />
 
 ---
