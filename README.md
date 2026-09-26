@@ -1,32 +1,42 @@
-# AI ITSM Helpdesk Automation Platform
+# 🤖 AI-Powered ITSM Helpdesk Automation Platform
 
-Hackathon MVP aligned to the Sorim.AI assessment.
+An AI-powered IT Service Management (ITSM) Helpdesk platform that automatically understands employee IT requests, classifies incidents, retrieves relevant knowledge using RAG, generates grounded AI responses, performs automation workflows, creates ServiceNow-compatible requests, and escalates unsupported requests to human IT support.
 
-## Stack
-React + Vite | FastAPI | MongoDB Atlas | Hugging Face/open-source LLM | sentence-transformers | FAISS | ServiceNow/mock ServiceNow.
+---
 
-## Five required demos
-1. My VPN is not connecting.
-2. My password has expired.
-3. How do I troubleshoot Outlook synchronization?
-4. I need Visual Studio Code installed on my laptop.
-5. Unsupported question -> no hallucination -> escalation.
+## 📸 Application Screenshots
 
-## Run backend
-cd backend
-python -m venv .venv
-.\.venv\Scripts\activate
-pip install -r requirements.txt
-copy .env.example .env
-uvicorn app.main:app --reload --port 8000
+> Place your screenshots inside `docs/images/` using the filenames shown below.
 
-## Run frontend
-cd frontend
-npm install
-npm run dev
+### 🏠 ITSM Dashboard
 
-Open http://localhost:5173
 
-The backend works in mock/in-memory mode without credentials. Add MongoDB Atlas and ServiceNow credentials to backend/.env when available.
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/2ebc50dc-e82c-4664-959d-26ac52c815ab" />
 
-Swagger: http://localhost:8000/docs
+The dashboard provides an overview of:
+
+- Total Tickets
+- Open Tickets
+- AI Resolved Tickets
+- Escalated Tickets
+- Software Requests
+- Automation Actions
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/9faab8e1-3ad2-488f-9686-c4100e2c9009" />
+
+---
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/499dfe44-dda2-462e-9c61-8e81f739a5f2" />
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/3ae8c617-f3b9-486a-a207-fcda5a293197" />
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/8851e395-9e25-437f-a82b-d894cdc606a0" />
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/58dba222-273c-4381-a672-e008c797539e" />
+
+### 💬 Employee Self-Service AI Chatbot
+
+![AI Self-Service Chatbot](docs/images/ai-self-service.png)
+<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/ed936fa3-a69e-47e8-86f3-74ae6fd04937" />
+
+Employees can describe IT problems using natural language.
+
+Example:
+
+```text
+My VPN is not connecting.
